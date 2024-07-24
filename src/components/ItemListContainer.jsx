@@ -1,3 +1,6 @@
+import Container from 'react-bootstrap/Container';
 export const ItemListContainer = (props) => {
-    return <h1>{props.greeting}</h1>;
+    return <Container>
+        <h1 className='mt-4'>{props.greeting}</h1>
+        </Container>;
 }
