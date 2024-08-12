@@ -10,3 +10,7 @@ strong{
 .mt-4{
     text-align: center;
 }
+
+.routes{
+    display: inline-block;
+}

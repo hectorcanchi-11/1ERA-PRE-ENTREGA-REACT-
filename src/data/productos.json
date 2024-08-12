@@ -1,0 +1,93 @@
+
+    [
+    {
+        "id": 1,
+        "nombre": "zapatillas rosa",
+        "category": "Ropa",
+        "precio": 29.99,
+        "marca": "GlowSkin",
+        "descripcion": "Un serum revitalizante que reduce visiblemente las arrugas y mejora la textura de la piel.",
+        "imagen_url": "/botasrosa.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "perfume vital",
+        "category": "fragancia",
+        "precio": 19.99,
+        "marca": "PureRadiance",
+        "descripcion": "Crema ligera que hidrata profundamente la piel y proporciona un acabado suave y radiante.",
+        "imagen_url": "/colonia.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "labial sensual",
+        "category": "Maquillaje",
+        "precio": 15.49,
+        "marca": "ShineHair",
+        "descripcion": "Shampoo nutritivo que fortalece el cabello y le da un brillo saludable.",
+        "imagen_url": "/labial rojo.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "paleta de sombras de colores",
+        "category": "Maquillaje",
+        "precio": 12.99,
+        "marca": "LuxeBeauty",
+        "descripcion": "Máscara que da volumen extremo y define cada pestaña para una mirada impactante.",
+        "imagen_url": "/paleta de sombras.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "fragancia floral",
+        "category": "fragancia",
+        "precio": 8.99,
+        "marca": "ColorPop",
+        "descripcion": "Labial de acabado mate que proporciona un color intenso y duradero.",
+        "imagen_url": "/perfume-rosa.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Pintura de uñas",
+        "category": "Maquillaje",
+        "precio": 22.50,
+        "marca": "SeaGlow",
+        "descripcion": "Exfoliante que elimina células muertas de la piel, dejando el cuerpo suave y revitalizado.",
+        "imagen_url": "/pintura.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "perfume sarah saleh",
+        "category": "fragancia",
+        "precio": 17.99,
+        "marca": "BrightEyes",
+        "descripcion": "Crema ligera que reduce la apariencia de ojeras y bolsas debajo de los ojos.",
+        "imagen_url": "/sara-saleh-cpisiUDKAqE-unsplash.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "tacones lux",
+        "category": "Ropa",
+        "precio": 25.00,
+        "marca": "GlowEssence",
+        "descripcion": "Aceite rico en nutrientes que hidrata y rejuvenece la piel, proporcionando un brillo saludable.",
+        "imagen_url": "/taconesbeige.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Base",
+        "category": "Cuidado-de-la-piel",
+        "precio": 14.99,
+        "marca": "FreshSkin",
+        "descripcion": "Gel limpiador suave que elimina impurezas y maquillaje, dejando la piel limpia y fresca.",
+        "imagen_url": "/base.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "labial laura",
+        "category": "Maquillaje",
+        "precio": 10.50,
+        "marca": "PerfectFinish",
+        "descripcion": "Polvo compacto que controla el brillo y fija el maquillaje para un acabado perfecto durante todo el día.",
+        "imagen_url": "/laura-chouette-labial.jpg"
+    }
+    ]
