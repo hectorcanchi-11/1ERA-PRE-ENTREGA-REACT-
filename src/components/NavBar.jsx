@@ -10,10 +10,10 @@ export const NavBar = () =>{
         <Container>
           <Navbar.Brand as ={NavLink} to="/" id="logo">Ks.Belleza</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link as ={NavLink} to="/category/Cuidado-de-la-piel" bg= "danger"><strong>Cuidado De La Piel</strong></Nav.Link>
-            <Nav.Link as ={NavLink} to="/category/Maquillaje"><strong>Maquillaje</strong></Nav.Link>
-            <Nav.Link as ={NavLink} to="/category/fragancia"><strong>Fragancia</strong></Nav.Link>
-            <Nav.Link as ={NavLink} to="/category/Ropa"><strong>Ropa</strong></Nav.Link>
+            <Nav.Link as ={NavLink} to="/category/deportes" bg= "danger"><strong>Deportes</strong></Nav.Link>
+            <Nav.Link as ={NavLink} to="/category/zapatos"><strong>Zapatos</strong></Nav.Link>
+            <Nav.Link as ={NavLink} to="/category/mochilas"><strong>Mochilas</strong></Nav.Link>
+            <Nav.Link as ={NavLink} to="/category/ropa"><strong>Ropa</strong></Nav.Link>
           </Nav>
           <CartWidget/>
         </Container>

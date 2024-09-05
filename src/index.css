@@ -14,3 +14,14 @@ strong{
 .routes{
     display: inline-block;
 }
+
+.titulocart{
+    font-size: 25px;
+    color:grey;
+}
+
+.cantidad{
+    color: chocolate;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
